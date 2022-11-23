@@ -1,3 +1,5 @@
 # SquadManager
 
-## Project being as a way of studying the dotnet framework
+## State of the project:
+
+<img src="img.png">
